@@ -3,14 +3,14 @@
 # ==============================================
 # SCRIPT : DOWNLOAD AND INSTALL freeserver #
 # =====================================================================================================================
-# Command: wget https://raw.githubusercontent.com/biko-73/freeserver/main/installer.sh -O - | /bin/sh #
+# Command: wget https://raw.githubusercontent.com/biko-73/FreeServerCCcam/main/installer.sh -O - | /bin/sh #
 # =====================================================================================================================
 
 ########################################################################################################################
 # Plugin	... Enter Manually
 ########################################################################################################################
 
-PACKAGE_DIR='freeserver/main'
+PACKAGE_DIR='FreeServerCCcam/main'
 
 MY_IPK="enigma2-plugin-extensions-freeserver_8.0.6_all.ipk"
 MY_DEB="enigma2-plugin-extensions-freeserver_8.0.6_all.deb"
