@@ -12,8 +12,8 @@
 
 PACKAGE_DIR='FreeServerCCcam/main'
 
-MY_IPK="enigma2-plugin-extensions-freeserver_8.0.7_all.ipk"
-MY_DEB="enigma2-plugin-extensions-freeserver_8.0.7_all.deb"
+MY_IPK="enigma2-plugin-extensions-freeserver_8.3.8_all.ipk"
+MY_DEB="enigma2-plugin-extensions-freeserver_8.3.8_all.deb"
 
 ########################################################################################################################
 # Auto ... Do not change
